@@ -23,8 +23,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
-  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/MUNAWER123/Julie-Mwol
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
 ### The Hard Method
@@ -41,7 +40,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
+$ git clone https://github.com/MUNAWER123/Julie-Mwol
 $ cd Julie-Mwol
 $ npm i
 $ node julie.js
